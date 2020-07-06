@@ -1,5 +1,6 @@
 ---
 title: About
+permalink: /about/
 ---
 ## I am Anthony and a beginner mobile app developer
 
